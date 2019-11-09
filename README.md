@@ -11,4 +11,9 @@ data=load('C:\Users\asimm\Desktop\veriler.txt');
 ## Cost Function (Maliyet fonksiyonu)
 *m değeri gözlem sayısını belirtir. Buradaki m değeri 2 dir. Sadece bir sütundaki toplam gözlem sayısını hesaplamamız yetecektir.
 
-*x^((i)) ve y^((i)) ifadeleri indislerini belirtir. Örnek, x^((1)) , y^((1)) ifadeleri sırasıyla 4 v 3 verilerini temsil eder.
+![Screenshot_2](https://user-images.githubusercontent.com/25990177/68534555-f159a700-0346-11ea-811f-030f2ea6af15.jpg) ifadeleri indislerini belirtir.
+
+ Örnek, ![Screenshot_3](https://user-images.githubusercontent.com/25990177/68534557-f3bc0100-0346-11ea-8e8b-e9395d230eb6.jpg)  ifadeleri sırasıyla 4 ve 3 verilerini temsil eder.
+
+
+
