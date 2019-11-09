@@ -49,6 +49,10 @@ Maliyet Fonksiyonun güncellenen değerlere göre yeniden hesaplanması
 
 Şimdi yeniden Teta değerleri dereceli olarak düşürelim.
 
+![Screenshot_12](https://user-images.githubusercontent.com/25990177/68534726-c7a17f80-0348-11ea-9400-597251530f41.jpg)
+
+Yapılan 2 iterasyon sonucunda maliyet, 2.3799 değerine düşürülmüştür.
+
 
 
 
