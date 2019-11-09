@@ -36,6 +36,19 @@ Buradaki hedeflenen işlem ![Screenshot_7](https://user-images.githubusercontent
 Şimdi maliyeti düşürmek için dereceli düşürme  (Gradient Descent) işlemini gerçekleştirelim.
 Dereceli Düşürme fonksiyonu arka planda yaptığı matematik,
 
+![Screenshot_9](https://user-images.githubusercontent.com/25990177/68534680-3d591b80-0348-11ea-8660-090ca0650d94.jpg)
+
+İlk iterasyonumuz gerçekleşti. Bunun sonucunda maliyet(cost) 6.2500,
+![Screenshot_10](https://user-images.githubusercontent.com/25990177/68534703-76918b80-0348-11ea-8d9f-02f77f184a3e.jpg)
+
+
+### Şimdi İkinci iterasyonumuza geçelim.
+Maliyet Fonksiyonun güncellenen değerlere göre yeniden hesaplanması
+
+![Screenshot_11](https://user-images.githubusercontent.com/25990177/68534713-a17bdf80-0348-11ea-95bb-be3d8f801aac.jpg) ,İşlemin sonucunda 2.3799 maliyet değeri bulunacaktır.
+
+Şimdi yeniden Teta değerleri dereceli olarak düşürelim.
+
 
 
 
